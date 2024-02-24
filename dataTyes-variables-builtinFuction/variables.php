@@ -20,7 +20,9 @@
  */
 
 /**
- * <?php ?> and <?=?> are same for just in html content
+ * <?php ?> and <?= ?> are same for just in html content
+ * this is very useful specially we write php code insde html
+ * this is shorter and robust for html inside php
  */
 
 $title = "Variables";
