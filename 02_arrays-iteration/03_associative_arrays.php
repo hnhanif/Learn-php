@@ -1,6 +1,10 @@
 <?php
 
-/**Associative array is like javascript object*/
+/**Associative array is like javascript object
+ * -------------------------------------------
+ * very useful when dealing with database
+ */
+
 $user = [
     "username" => "aliensarmy",
     "email" => "aliensarmy2500@gmail.com",
